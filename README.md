@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Toni-Graphics
-- 👀 I’m interested in os development
-- 🌱 I’m currently learning (nothing)
-- 💞️ I’m looking to collaborate on github
-- 📫 How to reach me via github
+# HI!
+I am Toni. <br>
+### See counter:
+![Seen counter](https://profile-counter.glitch.me/%7BToni-Graphics%7D/count.svg) 
 
-When you want to collaborate to one of my projects, just make a pull request
+### I like
+ - C, C++
+ - Rust
+
+### About me
+I am Toni. A young programmer from Germany.
 
 <!---
 Toni-Graphics/Toni-Graphics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
