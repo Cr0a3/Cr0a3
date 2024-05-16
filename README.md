@@ -1,9 +1,13 @@
-# HI!
-I am Toni. <br>
+# I am Toni
+13yr old from Germany
 
-<img src="https://github-readme-stats.vercel.app/api?username=Toni-Graphics&show_icons=true&rank_icon=github&include_all_commits=true" />
+I ♥️ Rust
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toni-Graphics&hide=makefile,batchfile,shell&layout=compact" />
+## Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Toni-Graphics&show_icons=true&include_all_commits=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toni-Graphics&hide=makefile,batchfile,shell,typescript,javascript,css,html&layout=compact" />
 
 <!---
 Toni-Graphics/Toni-Graphics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
