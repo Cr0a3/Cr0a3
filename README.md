@@ -19,9 +19,9 @@ I am working on a lot of things related to code generation in Rust.
 ## Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Toni-Graphics&show_icons=true" height=200/>
+<img src="https://github-readme-stats.vercel.app/api?username=Cr0a3&show_icons=true" height=200/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toni-Graphics&hide=makefile,batchfile,shell,typescript,javascript,css,html&layout=compact" height=200/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cr0a3&hide=makefile,batchfile,shell,typescript,javascript,css,html&layout=compact" height=200/>
 </p>
 
 <!---
