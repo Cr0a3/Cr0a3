@@ -14,7 +14,7 @@ I am working on a lot of things related to code generation in Rust.
 🛠️ What I am currently working on
  - A simple compiler
  - LLVM experiments
- - [RLLVM](https://github.com/Toni-Graphics/rllvm)
+ - [ygen](https://github.com/Cr0a3/ygen)
 
 ## Stats
 
