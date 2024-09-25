@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, i am Toni (or Cr0a3).<br>I got into programming when i was in 2nd grade (8yrs at the time) by making simple applications in python.<br>Then i learned step by step (in order) [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Php](https://www.php.net/), [Verilog](https://www.chipverify.com/tutorials/verilog), [C++](https://clang.llvm.org/), [C](https://clang.llvm.org/), [X86 Assembler](https://www.nasm.us/) and in 2024 (the time of writting this) [Rust](https://www.rust-lang.org/).<br>Since the beginning i wanted to make my own programming language.<br>Then i got into compiler backend devleopment. And yeah thats what i am working on the entire time.<br>
+Hi, i am Toni (or Cr0a3) and 13 years old.<br>I got into programming when i was in 2nd grade (8yrs at the time) by making simple applications in python.<br>Then i learned step by step (in order) [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Php](https://www.php.net/), [Verilog](https://www.chipverify.com/tutorials/verilog), [C++](https://clang.llvm.org/), [C](https://clang.llvm.org/), [X86 Assembler](https://www.nasm.us/) and in 2024 (the time of writting this) [Rust](https://www.rust-lang.org/).<br>Since the beginning i wanted to make my own programming language.<br>Then i got into compiler backend devleopment. And yeah thats what i am working on the entire time.<br>
 
 #### The project i am most proud of
 I had a lot lot of projects in the past. But the one i am most proud of is my current project:
@@ -12,7 +12,7 @@ I but the most effort into it, it also is the project where:
  - Worked the most
  - And had the most fun
 
-It is a code generation libary used for building backends off compilers.
+It is a code generation libary used for building backends of compilers.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/26RxXg8qx3) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Cr0a3) 
