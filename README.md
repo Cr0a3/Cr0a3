@@ -8,7 +8,7 @@ I had a lot lot of projects in the past. But the one i am most proud of is my cu
 
  - [ygen](https://github.com/Cr0a3/ygen)
 
-I but the most effort into it, it also is the project where:
+I put the most effort into it, it also is the project where:
 
  - I learned the most
  - Worked the most
